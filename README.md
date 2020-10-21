@@ -1,7 +1,9 @@
 # CarbonEX
-A website designed to ensure a reduction of air pollution by simplifying the process of carbon trading between companies. CarbonEX creates a way to be economically profitable and reduce harm to the environment.
+[![image](https://www.linkpicture.com/q/Screenshot-2020-10-21-at-3.54.23-PM.png)](https://www.linkpicture.com/view.php?img=LPic5f90921f5e3fc1704004589)
 
-## Technologies
+A web app created by my team and I at the 'Hack The Earth' hackathon. It's designed to reduce world air pollution by simplifying the process of carbon trading between companies.
+
+# Technologies
 Project is created with:
 * Bootstrap 4.1
 * HTML 5
@@ -13,13 +15,10 @@ Project is created with:
 * Lightbox2
 * Google Fonts
 
-##Setup
+# Setup
 To run this project, install the following files:
 
-##Features
-
-##Acknowledgement
+# Acknowledgement
 Thank you to https://bootstrapious.com/p/big-bootstrap-tutorial for the great tutorials on Bootstrap.
+Thank you to the Hack The Earth mentors with their help on debugging the project!
 
-###License
-This project is licensed under MIT
